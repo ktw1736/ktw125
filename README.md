@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>제라드가 쏘아올린 우승컵(feat 뎀바바) - html</title>
+ 
   <meta charset="utf-8">
 </head>
 <body>
