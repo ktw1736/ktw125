@@ -19,6 +19,6 @@
 <h3>영원히 고통받는 제라드ㅋㅋㅋㅋㅋㅋㅋ</h3>
 
 <P><iframe width="702" height="395" src="https://www.youtube.com/embed/sRQ-LO1fnk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>영상참고
-{% include 시바 문서.html https://www.youtube.com/embed/srG3jvoDGLE" %}
+{%include 시바 문서.html https://www.youtube.com/embed/srG3jvoDGLE"%}
 </body>
 </html>
